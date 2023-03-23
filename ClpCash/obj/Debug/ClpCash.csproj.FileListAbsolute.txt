@@ -1,0 +1,18 @@
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\bin\Debug\ClpCash.dll.config
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\bin\Debug\ClpCash.dll
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\bin\Debug\ClpCash.pdb
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\bin\Debug\Dapper.dll
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\bin\Debug\Dapper.xml
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\obj\Debug\ClpCash.csproj.CoreCompileInputs.cache
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\obj\Debug\ClpCash.csproj.CopyComplete
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\obj\Debug\ClpCash.dll
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\ClpCash\obj\Debug\ClpCash.pdb
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Debug\ClpCash.dll.config
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Debug\ClpCash.dll
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Debug\ClpCash.pdb
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Debug\Dapper.dll
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Debug\Dapper.xml
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\obj\Debug\ClpCash.csproj.CoreCompileInputs.cache
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\obj\Debug\ClpCash.csproj.CopyComplete
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\obj\Debug\ClpCash.dll
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\obj\Debug\ClpCash.pdb

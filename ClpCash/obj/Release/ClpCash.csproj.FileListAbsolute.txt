@@ -1,0 +1,9 @@
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Release\ClpCash.dll.config
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Release\ClpCash.dll
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Release\ClpCash.pdb
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Release\Dapper.dll
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\bin\Release\Dapper.xml
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\obj\Release\ClpCash.csproj.CoreCompileInputs.cache
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\obj\Release\ClpCash.csproj.CopyComplete
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\obj\Release\ClpCash.dll
+C:\sistemas\cash\WKF1162342\Code\WcfService2\ClpCash\obj\Release\ClpCash.pdb
